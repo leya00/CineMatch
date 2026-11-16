@@ -1,0 +1,22 @@
+{
+  "gold_labels_available": 30,
+  "gold_rows_processed": 30,
+  "top_candidate_accuracy_on_processed_gold": 0.9333,
+  "auto_matched_gold_count": 23,
+  "auto_match_precision_on_processed_gold": 1.0,
+  "top_candidate_errors": [
+    {
+      "redial_movie_id": "187028",
+      "title": "It (2017)",
+      "predicted_qid": "Q11661",
+      "gold_qid": "Q25136484"
+    },
+    {
+      "redial_movie_id": "182709",
+      "title": "Seven (1995)",
+      "predicted_qid": "Q908659",
+      "gold_qid": "Q190908"
+    }
+  ],
+  "note": "Top-30 popular titles are not a representative random test set. Gold labels were user supplied, not all independently audited."
+}

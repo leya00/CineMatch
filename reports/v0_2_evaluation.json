@@ -1,0 +1,11 @@
+{
+  "gold_labels_available": 30,
+  "gold_rows_processed": 30,
+  "top_candidate_accuracy_on_processed_gold": 1.0,
+  "auto_matched_gold_count": 24,
+  "auto_match_coverage_on_processed_gold": 0.8,
+  "manual_review_gold_count": 6,
+  "auto_match_precision_on_processed_gold": 1.0,
+  "top_candidate_errors": [],
+  "note": "Top-30 popular titles are not a representative random test set. Gold labels were user supplied, not all independently audited."
+}

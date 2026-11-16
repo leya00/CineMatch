@@ -1,0 +1,8 @@
+﻿priority_rank,redial_movie_id,redial_title,cleaned_title,release_year,mentions,wikidata_qid,suggested_wikidata_qid,suggested_wikidata_title,wikidata_years,match_score,score_margin,match_status,match_reason,wikidata_url
+2,187028,It (2017),It,2017,896,,Q11661,information technology,,60,0,needs_review,"Uncertain title, year, type or competing candidates",https://www.wikidata.org/wiki/Q11661
+11,161313,Die Hard (1988),Die Hard,1988,386,,Q105598,Die Hard,1988,100,10,needs_review,"Uncertain title, year, type or competing candidates",https://www.wikidata.org/wiki/Q105598
+20,85036,The Matrix (1999),The Matrix,1999,270,,Q83495,The Matrix,1999,100,10,needs_review,"Uncertain title, year, type or competing candidates",https://www.wikidata.org/wiki/Q83495
+23,184098,Guardians of the Galaxy (2014),Guardians of the Galaxy,2014,252,,Q5887360,Guardians of the Galaxy,2014,100,10,needs_review,"Uncertain title, year, type or competing candidates",https://www.wikidata.org/wiki/Q5887360
+24,148904,John Wick (2014),John Wick,2014,249,,Q15732802,John Wick,2014|2015,100,10,needs_review,"Uncertain title, year, type or competing candidates",https://www.wikidata.org/wiki/Q15732802
+25,182709,Seven (1995),Seven,1995,249,,Q908659,Seven Network,,60,0,needs_review,"Uncertain title, year, type or competing candidates",https://www.wikidata.org/wiki/Q908659
+27,101264,Inception (2010),Inception,2010,245,,Q25188,Inception,2010,100,10,needs_review,"Uncertain title, year, type or competing candidates",https://www.wikidata.org/wiki/Q25188

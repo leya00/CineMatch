@@ -1,0 +1,459 @@
+﻿redial_movie_id,redial_title,rank,candidate_qid,candidate_title,candidate_years,description,score,title_similarity,type_signal,matched_name
+204974,Black Panther (2018),1,Q23780734,Black Panther,2018,2018 film directed by Ryan Coogler,100,1.0,film_instance,Black Panther
+204974,Black Panther (2018),2,Q136680841,Black Panther,,Russian pornographic actress,60,1.0,unconfirmed,Black Panther
+204974,Black Panther (2018),3,Q207963,black panther,,melanistic colour variant of any of several species of larger cat,60,1.0,unconfirmed,black panther
+204974,Black Panther (2018),4,Q109017521,Black Panther Slam,,"Poet, slammer",60,1.0,unconfirmed,Black Panther
+204974,Black Panther (2018),5,Q11179582,Black Panther,,Chinese rock band,60,1.0,unconfirmed,Black Panther
+187028,It (2017),1,Q25136484,It,2017,2017 film directed by Andy Muschietti,100,1.0,film_instance,It
+187028,It (2017),2,Q11661,information technology,,"development, management, and use of computer-based information systems",60,1.0,unconfirmed,IT
+187028,It (2017),3,Q1191931,isomeric transition,,decay of an nuclear isomer to lower energy states of the nuclide,60,1.0,unconfirmed,IT
+187028,It (2017),4,Q220072,ITV,,TV network in the United Kingdom,48,0.8,unconfirmed,ITV
+187028,It (2017),5,Q5094647,intensive care unit,,hospital ward that provides intensive care medicine,48,0.8,unconfirmed,ITU
+83552,Jumanji (2017),1,Q20762680,Jumanji: Welcome to the Jungle,2017|2018,2017 film directed by Jake Kasdan,100,1.0,film_instance,Jumanji
+83552,Jumanji (2017),2,Q51844964,Jumanji,2018,2018 single by B Young,68,1.0,unconfirmed,Jumanji
+83552,Jumanji (2017),3,Q30684088,Jumanji,,American media franchise,60,1.0,unconfirmed,Jumanji
+83552,Jumanji (2017),4,Q19592929,Jumanji,,fictional board game,60,1.0,unconfirmed,Jumanji
+83552,Jumanji (2017),5,Q222939,Jumanji,1995|1996,1995 film directed by Joe Johnston,46,1.0,film_instance,Jumanji
+122604,Coco (2017),1,Q5815826,Coco,2017|2018,2017 animated film directed by Lee Unkrich and Adrian Molina,100,1.0,film_instance,Coco
+122604,Coco (2017),2,Q20000249,Coco,,female given name,60,1.0,unconfirmed,Coco
+122604,Coco (2017),3,Q614728,CoCo,,Japanese pop group,60,1.0,unconfirmed,CoCo
+122604,Coco (2017),4,Q37476476,Coco,,family name,60,1.0,unconfirmed,Coco
+122604,Coco (2017),5,Q100663057,CoCo,,Italian rapper and songwriter,60,1.0,unconfirmed,CoCo
+184418,Get Out (2017),1,Q25136235,Get Out,2017,2017 film directed by Jordan Peele,100,1.0,film_instance,Get Out
+184418,Get Out (2017),2,Q48816471,Get Out,2018,2018 single by Chvrches,68,1.0,unconfirmed,Get Out
+184418,Get Out (2017),3,Q5554073,Get Out,,game published by Cheapass Games,60,1.0,unconfirmed,Get Out
+184418,Get Out (2017),4,Q114524113,Get Out,2002,episode of My Wife and Kids (S2 E14),36,1.0,unconfirmed,Get Out
+184418,Get Out (2017),5,Q104150957,Get Out of Your Lazy Bed,,vocal track by Matt Bianco; 1983 studio recording,27,0.4516,unconfirmed,Get Out of Your Lazy Bed
+78340,Deadpool (2016),1,Q19347291,Deadpool,2016,2016 film directed by Tim Miller,100,1.0,film_instance,Deadpool
+78340,Deadpool (2016),2,Q3397848,dead pool,,game of prediction which involves guessing when someone will die,60,1.0,unconfirmed,deadpool
+78340,Deadpool (2016),3,Q109285374,Deadpool,,2018 pinball machine,60,1.0,unconfirmed,Deadpool
+78340,Deadpool (2016),4,Q29559108,Deadpool,2016,film series based on Marvel Comics,40,1.0,not_film,Deadpool
+78340,Deadpool (2016),5,Q22696439,Deadpool,2016,album by Junkie XL,40,1.0,not_film,Deadpool
+78418,The Avengers (2012),1,Q182218,The Avengers,2011|2012,2012 film directed by Joss Whedon,100,1.0,film_instance,The Avengers
+78418,The Avengers (2012),2,Q104382182,The Avengers,,American musical group; garage band,60,1.0,unconfirmed,The Avengers
+78418,The Avengers (2012),3,Q1414349,the Avengers,,American punk rock band,60,1.0,unconfirmed,the Avengers
+78418,The Avengers (2012),4,Q321558,Nakam,,Jewish partisan militia,60,1.0,unconfirmed,The Avengers
+78418,The Avengers (2012),5,Q12338970,The Avengers,,episode of The O.C. (S4 E1),60,1.0,unconfirmed,The Avengers
+140749,Moana (2016),1,Q18647981,Moana,2016,2016 animated film directed by John Musker and Ron Clements,100,1.0,film_instance,Moana
+140749,Moana (2016),2,Q1529838,Moana,,given name,60,1.0,unconfirmed,Moana
+140749,Moana (2016),3,Q242219,Moana Pozzi,,Italian television presenter and pornographic actress (1961-1994),60,1.0,unconfirmed,Moana
+140749,Moana (2016),4,Q6886397,Moana,,genus of fungi,60,1.0,unconfirmed,Moana
+140749,Moana (2016),5,Q55261806,Moana,,genus of insects,60,1.0,unconfirmed,Moana
+119144,Wonder Woman (2017),1,Q20502242,Wonder Woman,2017,2017 film directed by Patty Jenkins,100,1.0,film_instance,Wonder Woman
+119144,Wonder Woman (2017),2,Q338430,Wonder Woman,,superhero appearing in DC Comics publications and related media,60,1.0,unconfirmed,Wonder Woman
+119144,Wonder Woman (2017),3,Q57394134,Wonder Woman,,DC Extended Universe character,60,1.0,unconfirmed,Wonder Woman
+119144,Wonder Woman (2017),4,Q609436,Wonder Woman,2009,2009 animated film by Lauren Montgomery,46,1.0,film_instance,Wonder Woman
+119144,Wonder Woman (2017),5,Q8031780,Wonder Woman,2011,2011 unaired television pilot produced by Warner Bros. Television and DC Comics for NBC,36,1.0,unconfirmed,Wonder Woman
+140066,Bridesmaids (2011),1,Q837264,Bridesmaids,2011,2011 film directed by Paul Feig,100,1.0,film_instance,Bridesmaids
+140066,Bridesmaids (2011),2,Q27876141,Bridesmaids,,painting by Frances Hodgkins,60,1.0,unconfirmed,Bridesmaids
+140066,Bridesmaids (2011),3,Q13630400,Bridesmaids,1989,1989 television film directed by Lila Garrett,46,1.0,film_instance,Bridesmaids
+140066,Bridesmaids (2011),4,Q15789852,Bridesmaids,2013,2013 film directed by Robby D.,46,1.0,film_instance,Bridesmaids
+140066,Bridesmaids (2011),5,Q79947526,Bridesmaids at Cana,,"drawing by Stanley Spencer (British, 1892-1959) (1993.41)",44,0.7333,unconfirmed,Bridesmaids at Cana
+161313,Die Hard (1988),1,Q105598,Die Hard,1988,1988 film directed by John McTiernan,100,1.0,film_instance,Die Hard
+161313,Die Hard (1988),2,Q2716420,Die Hard,1988,series of action movies beginning with Die Hard in 1988,90,1.0,unconfirmed,Die Hard
+161313,Die Hard (1988),3,Q1347932,Die hard,,Phrase describing fanatic believers,60,1.0,unconfirmed,Die hard
+161313,Die Hard (1988),4,Q65693340,Die Hard,1989|1990,1990 video game for the Commodore 64,18,1.0,not_film,Die Hard
+161313,Die Hard (1988),5,Q1531134,Die Hard,1991|1992,1991 video game,0,1.0,not_film,Die Hard
+169419,Thor: Ragnarok (2017),1,Q22665878,Thor: Ragnarok,2017,2017 film directed by Taika Waititi,100,1.0,film_instance,Thor: Ragnarok
+169419,Thor: Ragnarok (2017),2,Q42247298,Thor: Ragnarok poster,2017,film poster for 2017 film 'Thor: Ragnarok',84,0.7879,film_description,Thor: Ragnarok poster
+169419,Thor: Ragnarok (2017),3,Q42246813,Thor: Ragnarok teaser poster,2017,film poster for 2017 film 'Thor: Ragnarok',76,0.65,film_description,Thor: Ragnarok teaser poster
+169419,Thor: Ragnarok (2017),4,Q42177274,Thor: Ragnarok Press Kit,,press release by The Walt Disney Company,43,0.7222,unconfirmed,Thor: Ragnarok Press Kit
+169419,Thor: Ragnarok (2017),5,Q24261985,Thor: Ragnarok's Working Title Is Creature Report,2016,Comicbook.com post,34,0.4262,unconfirmed,Thor: Ragnarok's Working Title Is Creature Report
+138962,Bad Moms (2016),1,Q22074948,Bad Moms,2016,"2016 film by Jon Lucas, Scott Moore",100,1.0,film_instance,Bad Moms
+138962,Bad Moms (2016),2,Q29832507,A Bad Moms Christmas,2017,2017 film directed by Jon Lucas and Scott Moore,71,0.8889,film_instance,Bad Moms 2
+138962,Bad Moms (2016),3,Q58106671,"Bad moms, blameless dads: The portrayal of maternal and paternal age and preconception harm in U.S. newspapers",2015,,16,0.1391,unconfirmed,"Bad moms, blameless dads: The portrayal of maternal and paternal age and preconception harm in U.S. newspapers"
+138962,Bad Moms (2016),4,Q115668610,Bad Moms,,film series,10,1.0,not_film,Bad Moms
+199831,Superbad (2007),1,Q679611,Superbad,2007,2007 film by Greg Mottola,100,1.0,film_instance,Superbad
+199831,Superbad (2007),2,Q7643030,Superbad,,Internet art created by Ben Benjamin in 1997,60,1.0,unconfirmed,Superbad
+199831,Superbad (2007),3,Q2367277,Superbad,2011,single by Flux Pavilion and Doctor P,36,1.0,unconfirmed,Superbad
+199831,Superbad (2007),4,Q18455695,Superbad MIDI Breaks,,,34,0.5714,unconfirmed,Superbad MIDI Breaks
+199831,Superbad (2007),5,Q7643022,"Superbad, Superslick",1975,single by James Brown,12,0.5926,unconfirmed,"Superbad, Superslick"
+202190,The Shining (1980),1,Q186341,The Shining,1980,1980 film directed by Stanley Kubrick,100,1.0,film_instance,The Shining
+202190,The Shining (1980),2,Q1811161,The Shining,,1997 American television miniseries,60,1.0,unconfirmed,The Shining
+202190,The Shining (1980),3,Q96251187,The Shining,,horror media franchise,60,1.0,unconfirmed,The Shining
+202190,The Shining (1980),4,Q185498,Lucifer,,"name for the ""Morning star"" (the planet Venus, or other stars) in Latin, sometimes used as a name for the devil or Satan",51,0.8462,unconfirmed,The shining one
+202190,The Shining (1980),5,Q60411205,The Shining,1977,1977 edition,36,1.0,unconfirmed,The Shining
+204870,Deadpool 2 (2018),1,Q25431158,Deadpool 2,2018,2018 film directed by David Leitch,100,1.0,film_instance,Deadpool 2
+204870,Deadpool 2 (2018),2,Q66503539,Deadpool 2: Super Duper Cut,,2018 unrated cut of Deadpool 2,33,0.5556,unconfirmed,Deadpool 2: Super Duper Cut
+204870,Deadpool 2 (2018),3,Q55609235,Deadpool 2 – Original Motion Picture Score,2018,2018 soundtrack album by Tyler Bates,4,0.4,not_film,Deadpool 2 – Original Motion Picture Score
+204870,Deadpool 2 (2018),4,Q107970175,Dead Pool 2 soundtrack releases,,Wikipedia article covering multiple soundtrack releases,0,0.4878,not_film,Dead Pool 2 soundtrack releases
+204870,Deadpool 2 (2018),5,Q107970139,Deadpool 2 – Original Motion Picture Soundtrack,,2018 compilation soundtrack album; various artists,0,0.3636,not_film,Deadpool 2 – Original Motion Picture Soundtrack
+115908,50 First Dates (2004),1,Q241482,50 First Dates,2004|2005|2006,2004 film by Peter Segal,100,1.0,film_instance,50 First Dates
+115908,50 First Dates (2004),2,Q134581673,50 First Dates,,2025 musical,60,1.0,unconfirmed,50 First Dates
+115908,50 First Dates (2004),3,Q2843987,50 First Dates - Love songs from the Original Motion Picture 50 First Dates,2004,2004 compilation soundtrack album; various artists,7,0.4444,not_film,50 First Dates - Original Motion Picture Soundtrack
+135571,The Hangover (2009),1,Q219315,The Hangover,2009,2009 film directed by Todd Phillips,100,1.0,film_instance,The Hangover
+135571,The Hangover (2009),2,Q114493581,The Hangover,2010,episode of Jersey Shore (S2 E2),68,1.0,unconfirmed,The Hangover
+135571,The Hangover (2009),3,Q12899487,The Hangover (Suzanne Valadon),,painting by Henri de Toulouse-Lautrec,60,1.0,unconfirmed,The Hangover
+135571,The Hangover (2009),4,Q118905688,The Hangover,2009,2009 soundtrack album to The Hangover,40,1.0,not_film,The Hangover
+135571,The Hangover (2009),5,Q29639189,The Hangover,2017,episode of Holby City (S19 E23),36,1.0,unconfirmed,The Hangover
+175096,Titanic (1997),1,Q44578,Titanic,1997|1998,1997 film directed by James Cameron,100,1.0,film_instance,Titanic
+175096,Titanic (1997),2,Q1426605,Titanic,1996,1996 TV miniseries directed by Robert Lieberman,78,1.0,film_instance,Titanic
+175096,Titanic (1997),3,Q25173,Titanic,,"British transatlantic passenger liner, launched and foundered in 1912",60,1.0,unconfirmed,Titanic
+175096,Titanic (1997),4,Q124981245,Titanic,,vocal track by Stefan Rüdén; 1978 studio recording,60,1.0,unconfirmed,Titanic
+175096,Titanic (1997),5,Q1889132,Titanic,,Norwegian band,60,1.0,unconfirmed,Titanic
+85036,The Matrix (1999),1,Q83495,The Matrix,1999,1999 American science fiction action thriller film,100,1.0,film_instance,The Matrix
+85036,The Matrix (1999),2,Q1210827,The Matrix series,1999,1999–present films directed by The Wachowskis,90,1.0,unconfirmed,The Matrix
+85036,The Matrix (1999),3,Q13014087,The Matrix,,science fiction action media franchise,60,1.0,unconfirmed,The Matrix
+85036,The Matrix (1999),4,Q1402369,Vasyl Lomachenko,,Ukrainian boxer,60,1.0,unconfirmed,The Matrix
+85036,The Matrix (1999),5,Q1649612,The Matrix,,American pop music writing and production team,60,1.0,unconfirmed,The Matrix
+205163,Avengers: Infinity War (2018),1,Q23780914,Avengers: Infinity War,2018,2018 Marvel Studios film,100,1.0,film_instance,Avengers: Infinity War
+205163,Avengers: Infinity War (2018),2,Q23781155,Avengers: Endgame,2019|2026,2019 film directed by Anthony and Joe Russo,54,0.5946,film_instance,Avengers: Endgame
+205163,Avengers: Infinity War (2018),3,Q52297810,Avengers: Infinity War,2018,2018 soundtrack album by Alan Silvestri,40,1.0,not_film,Avengers: Infinity War
+205163,Avengers: Infinity War (2018),4,Q28477240,Avengers: Infinity War And Sequel Set To Begin Filming Monday,2017,news article from comicbook.com,39,0.5185,unconfirmed,Avengers: Infinity War And Sequel Set To Begin Filming Monday
+205163,Avengers: Infinity War (2018),5,Q28914106,Avengers: Infinity War adds Mantis from Guardians of the Galaxy 2,2017,news article from Entertainment Weekly,38,0.4941,unconfirmed,Avengers: Infinity War adds Mantis from Guardians of the Galaxy 2
+144347,Taken (2008),1,Q277080,Taken,2008|2009,2008 film by Pierre Morel,100,1.0,film_instance,Taken
+144347,Taken (2008),2,Q24069296,Taken,,Franco-American drama series based on the Taken film trilogy,67,1.0,film_description,Taken
+144347,Taken (2008),3,Q122750534,Taken,,family name,60,1.0,unconfirmed,Taken
+144347,Taken (2008),4,Q4189818,Takengon,,"capital of Central Aceh Regency, Indonesia",46,0.7692,unconfirmed,Takengon
+144347,Taken (2008),5,Q16799334,Taken,2008,French action film franchise,40,1.0,not_film,Taken
+184098,Guardians of the Galaxy (2014),1,Q5887360,Guardians of the Galaxy,2014,2014 film directed by James Gunn,100,1.0,film_instance,Guardians of the Galaxy
+184098,Guardians of the Galaxy (2014),2,Q114538600,Guardians of the Galaxy,2014,episode of Hulk and the Agents of S.M.A.S.H. (S2 E4),90,1.0,unconfirmed,Guardians of the Galaxy
+184098,Guardians of the Galaxy (2014),3,Q114539317,Guardians of the Galaxy,2013,episode of Ultimate Spider-Man (S2 E18),68,1.0,unconfirmed,Guardians of the Galaxy
+184098,Guardians of the Galaxy (2014),4,Q2545790,Guardians of the Galaxy,,2008 superhero team by Marvel Comics,60,1.0,unconfirmed,Guardians of the Galaxy
+184098,Guardians of the Galaxy (2014),5,Q6653327,Guardians of the Galaxy,,1969 superhero team by Marvel Comics,60,1.0,unconfirmed,Guardians of the Galaxy
+148904,John Wick (2014),1,Q15732802,John Wick,2014|2015,2014 film directed by Chad Stahelski and David Leitch,100,1.0,film_instance,John Wick
+148904,John Wick (2014),2,Q29554576,John Wick,2014,American media franchise,90,1.0,unconfirmed,John Wick
+148904,John Wick (2014),3,Q64417139,John Wick,,titular character of the John Wick series,60,1.0,unconfirmed,John Wick
+148904,John Wick (2014),4,Q3182744,John Wick,,role-playing game designer,60,1.0,unconfirmed,John Wick
+148904,John Wick (2014),5,Q16065502,John Wickens,,English barrister and judge,51,0.8571,unconfirmed,John Wickens
+182709,Seven (1995),1,Q190908,Seven,1995,1995 film by David Fincher,100,1.0,film_instance,Seven
+182709,Seven (1995),2,Q908659,Seven Network,,Australian broadcast television network,60,1.0,unconfirmed,Seven
+182709,Seven (1995),3,Q23350,7,,natural number,60,1.0,unconfirmed,seven
+182709,Seven (1995),4,Q37465034,Seven,,family name,60,1.0,unconfirmed,Seven
+182709,Seven (1995),5,Q11314406,Seven,,Japanese animation studio,60,1.0,unconfirmed,Seven
+203424,The Silence of the Lambs (1991),1,Q133654,The Silence of the Lambs,1991,1991 film directed by Jonathan Demme,100,1.0,film_instance,The Silence of the Lambs
+203424,The Silence of the Lambs (1991),2,Q126001243,The Silence of the Lambs and the Flaying of Feminist Theory,1991,"journal article from 'Camera Obscura: Feminism, Culture, and Media Studies' published in 1991",65,0.5783,unconfirmed,The Silence of the Lambs and the Flaying of Feminist Theory
+203424,The Silence of the Lambs (1991),3,Q139995821,The Silence of the Lambs,,2026 stage adaptation,60,1.0,unconfirmed,The Silence of the Lambs
+203424,The Silence of the Lambs (1991),4,Q67937749,The Silence of the Lambs: Clarice Starling's analysis?,1992,scientific article published on 01 January 1992,46,0.6316,unconfirmed,The Silence of the Lambs: Clarice Starling's analysis?
+203424,The Silence of the Lambs (1991),5,Q60411667,The Silence of the Lambs,1988,1988 edition,36,1.0,unconfirmed,The Silence of the Lambs
+101264,Inception (2010),1,Q25188,Inception,2010,2010 film directed by Christopher Nolan,100,1.0,film_instance,Inception
+101264,Inception (2010),2,Q54888301,Inception,2010,2010 edition,90,1.0,unconfirmed,Inception
+101264,Inception (2010),3,Q85520081,Inception,,2014 Short film directed by Danial Hajibarat,67,1.0,film_description,Inception
+101264,Inception (2010),4,Q3406134,date of establishment,,date something was established,60,1.0,unconfirmed,inception
+101264,Inception (2010),5,Q105824503,INCEpTION,,text-annotation computer program,60,1.0,unconfirmed,INCEpTION
+204331,Girls Trip (2017),1,Q25631071,Girls Trip,2017,2017 film by Malcolm D. Lee,100,1.0,film_instance,Girls Trip
+204331,Girls Trip (2017),2,Q139553864,Girls Trip,,remix album by Zara Larsson,10,1.0,not_film,Girls Trip
+111540,Dunkirk (2017),1,Q21935651,Dunkirk,2017,2017 film directed by Christopher Nolan,100,1.0,film_instance,Dunkirk
+111540,Dunkirk (2017),2,Q45797,Dunkirk,,"commune in Nord, France",60,1.0,unconfirmed,Dunkirk
+111540,Dunkirk (2017),3,Q27644963,Dunkirk,,"civil parish in Swale, Kent, England",60,1.0,unconfirmed,Dunkirk
+111540,Dunkirk (2017),4,Q754988,Dunkirk,,"census designated place in Maryland, United States",60,1.0,unconfirmed,Dunkirk
+111540,Dunkirk (2017),5,Q3241334,Dunkirk,,"city in Indiana, United States",60,1.0,unconfirmed,Dunkirk
+96281,Star Wars: Episode VIII – The Last Jedi (2017),1,Q18486021,Star Wars: Episode VIII – The Last Jedi,2017|2018,2017 film directed by Rian Johnson,100,1.0,film_instance,Star Wars: Episode VIII – The Last Jedi
+111918,Step Brothers (2008),1,Q1345077,Step Brothers,2008,2008 film directed by Adam McKay,100,1.0,film_instance,Step Brothers
+111918,Step Brothers (2008),2,Q20012434,Step Brothers,,musical artist,60,1.0,unconfirmed,Step Brothers
+111918,Step Brothers (2008),3,Q65062199,Step Brothers Two,,2013 mixtape by Don Trip & Starlito,52,0.8667,unconfirmed,Step Brothers Two
+111918,Step Brothers (2008),4,Q7607971,Step Brothers,,Wikimedia disambiguation page,10,1.0,not_film,Step Brothers
+170037,The Big Sick (2017),1,Q24901880,The Big Sick,2017,2017 film directed by Michael Showalter,100,1.0,film_instance,The Big Sick
+185171,The Conjuring (2013),1,Q5540479,The Conjuring,2013,2013 film directed by James Wan,100,1.0,film_instance,The Conjuring
+185171,The Conjuring (2013),2,Q137429446,The Conjuring,,TV show,60,1.0,unconfirmed,The Conjuring
+185171,The Conjuring (2013),3,Q140359100,The Conjuring House,,Release Date N/A - PC PS4,49,0.8125,unconfirmed,The Conjuring House
+185171,The Conjuring (2013),4,Q21001651,The Conjuring 2,2016,2016 film directed by James Wan,42,0.9286,film_instance,The Conjuring 2
+185171,The Conjuring (2013),5,Q114802043,The Conjuring: Last Rites,2025,2025 horror film directed by Michael Chaves,42,0.9286,film_instance,The Conjuring 4
+84798,Pretty Woman (1990),1,Q207954,Pretty Woman,1990|2001,1990 film directed by Garry Marshall,100,1.0,film_instance,Pretty Woman
+84798,Pretty Woman (1990),2,Q55694591,Pretty Woman,1991,,78,1.0,film_instance,Pretty Woman
+84798,Pretty Woman (1990),3,Q130395714,Pretty Woman,,vocal track by Tonix; 1990 studio recording,60,1.0,unconfirmed,Pretty Woman
+84798,Pretty Woman (1990),4,Q11277555,Pretty Woman,2003,film directed by Takayoshi Watanabe,46,1.0,film_instance,Pretty Woman
+84798,Pretty Woman (1990),5,Q49343163,Pretty Womans Gully,,valley in New Zealand,46,0.7742,unconfirmed,Pretty Womans Gully
+181715,Logan (2017),1,Q24053263,Logan,2017,2017 film directed by James Mangold,100,1.0,film_instance,Logan
+181715,Logan (2017),2,Q16872414,Logan,,family name,60,1.0,unconfirmed,Logan
+181715,Logan (2017),3,Q6666923,Logan,,unisex given name,60,1.0,unconfirmed,Logan
+181715,Logan (2017),4,Q731584,Logan,,"city in Harrison County, Iowa, United States",60,1.0,unconfirmed,Logan
+181715,Logan (2017),5,Q108629763,Logan,,"son of Flavio Soares, brother to Max",60,1.0,unconfirmed,Logan
+170119,The Sixth Sense (1999),1,Q183063,The Sixth Sense,1999|2000,1999 film directed by M. Night Shyamalan,100,1.0,film_instance,The Sixth Sense
+170119,The Sixth Sense (1999),2,Q136048147,The Sixth Sense,,1999 film score by James Newton Howard,67,1.0,film_description,The Sixth Sense
+170119,The Sixth Sense (1999),3,Q52692855,The Sixth Sense,,episode of Happy Days (S8 E9),60,1.0,unconfirmed,The Sixth Sense
+170119,The Sixth Sense (1999),4,Q72702926,The Sixth Sense,,,60,1.0,unconfirmed,The Sixth Sense
+170119,The Sixth Sense (1999),5,Q16560839,The Sixth Sense,1929,1929 film by Nemesio Manuel Sobrevila,46,1.0,film_instance,The Sixth Sense
+205435,Game Night (2018),1,Q30011713,Game Night,2018,2018 film directed by John Francis Daley and Jonathan Goldstein,100,1.0,film_instance,Game Night
+205435,Game Night (2018),2,Q48458893,Game Night,2017|2019,episode of Brooklyn Nine-Nine (S5 E10),68,1.0,unconfirmed,Game Night
+205435,Game Night (2018),3,Q5519862,Game Night,,web series,60,1.0,unconfirmed,Game Night
+205435,Game Night (2018),4,Q4809956,Game Night,2006,episode of How I Met Your Mother (S1 E15),36,1.0,unconfirmed,Game Night
+205435,Game Night (2018),5,Q67187409,Game Night,2015,episode of Melissa & Joey (S4 E20),36,1.0,unconfirmed,Game Night
+120092,The Shape of Water (2017),1,Q26698156,The Shape of Water,2017|2018,2017 film directed by Guillermo del Toro,100,1.0,film_instance,The Shape of Water
+120092,The Shape of Water (2017),2,Q58733723,The shape of watersheds,2018,scientific article published in Nature Communications,61,0.878,unconfirmed,The shape of watersheds
+120092,The Shape of Water (2017),3,Q55635540,The Shape of Water,2006,2006 documentary feature film directed by Kum-Kum Bhavnani,46,1.0,film_instance,The Shape of Water
+120092,The Shape of Water (2017),4,Q127499799,The Shape of Water,2004,2004 Picador edition,36,1.0,unconfirmed,The Shape of Water
+120092,The Shape of Water (2017),5,Q127499808,The Shape of Water,2002,2002 Viking edition,36,1.0,unconfirmed,The Shape of Water
+82894,Frozen (2013),1,Q246283,Frozen,2013|2014,2013 animated film directed by Chris Buck and Jennifer Lee,100,1.0,film_instance,Frozen
+82894,Frozen (2013),2,Q30597506,Frozen,,musical based off of the 2013 movie,67,1.0,film_description,Frozen
+82894,Frozen (2013),3,Q107301448,Frozen,,vocal track by Madonna; 1998 studio recording,60,1.0,unconfirmed,Frozen
+82894,Frozen (2013),4,Q108000,freezing,,phase transition in which a liquid turns into a solid due to a decrease in thermal energy,60,1.0,unconfirmed,frozen
+82894,Frozen (2013),5,Q97482391,Toetoe,,"locality in Whangarei District, Northland Region, New Zealand",60,1.0,unconfirmed,Frozen
+177160,Justice League (2017),1,Q20501835,Justice League,2017,2017 film directed by Zack Snyder,100,1.0,film_instance,Justice League
+177160,Justice League (2017),2,Q735744,Justice League,,group of fictional superheros of DC Comics,60,1.0,unconfirmed,Justice League
+177160,Justice League (2017),3,Q113460182,Justice League,,franchise based on DC comics' team with the same name,60,1.0,unconfirmed,Justice League
+177160,Justice League (2017),4,Q6316971,Justice League,,US band from Southern California,60,1.0,unconfirmed,Justice League
+177160,Justice League (2017),5,Q250036,Justice League,,American animated television series,10,1.0,not_film,Justice League
+122385,Dumb and Dumber (1994),1,Q462418,Dumb and Dumber,1994|1995,1994 comedy film by Peter Farrelly,100,1.0,film_instance,Dumb and Dumber
+122385,Dumb and Dumber (1994),2,Q66503202,Dumb and Dumber: Unrated,,2005 unrated cut of Dumb and Dumber,47,0.7895,unconfirmed,Dumb and Dumber: Unrated
+122385,Dumb and Dumber (1994),3,Q14932750,Dumb and Dumber To,2014,2014 film directed by Peter Farrelly and Bobby Farrelly,41,0.9091,film_instance,Dumb and Dumber To
+122385,Dumb and Dumber (1994),4,Q19007214,Dumb and Dumber,1994,film series,40,1.0,not_film,Dumb and Dumber
+122385,Dumb and Dumber (1994),5,Q80106061,Dumb and dumber,2005,scientific article published on 01 December 2005,36,1.0,unconfirmed,Dumb and dumber
+88141,Saving Private Ryan (1998),1,Q165817,Saving Private Ryan,1998,1998 film directed by Steven Spielberg,100,1.0,film_instance,Saving Private Ryan
+88141,Saving Private Ryan (1998),2,Q73729791,Saving Private Ryan's job,1999,scientific article published on 01 September 1999,60,0.8636,unconfirmed,Saving Private Ryan's job
+88141,Saving Private Ryan (1998),3,Q3945916,Saving Private Ryan,1998,Soundtrack by John Williams,40,1.0,not_film,Saving Private Ryan
+88141,Saving Private Ryan (1998),4,Q126761309,SAVING PRIVATE RYAN: WHAT DOES THE BIG SWAP BETWEEN MOSCOW AND KIEV MEAN?,2019,scholarly article,1,0.4222,unconfirmed,SAVING PRIVATE RYAN: WHAT DOES THE BIG SWAP BETWEEN MOSCOW AND KIEV MEAN?
+88141,Saving Private Ryan (1998),5,Q40537196,Saving Private Ryan: The Indian Scenario (Rapid Diagnosis of Malaria at Regimental Aid Post).,2004,scientific article published on April 2004,0,0.3519,unconfirmed,Saving Private Ryan: The Indian Scenario (Rapid Diagnosis of Malaria at Regimental Aid Post).
+159885,The Incredibles (2004),1,Q213326,The Incredibles,2004,2004 animated film directed by Brad Bird,100,1.0,film_instance,The Incredibles
+159885,The Incredibles (2004),2,Q55386504,The Incredibles,2004|2018,Disney/Pixar media franchise about a family of superheroes,90,1.0,unconfirmed,The Incredibles
+159885,The Incredibles (2004),3,Q52161687,The Incredibles universe,,fictional universe described in Disney/Pixar's The Incredibles franchise,46,0.7692,unconfirmed,The Incredibles universe
+159885,The Incredibles (2004),4,Q24832112,Incredibles 2,2018,2018 animated film directed by Brad Bird,42,0.9375,film_instance,The Incredibles 2
+159885,The Incredibles (2004),5,Q128798950,Incredibles 3,2028,upcoming animated film directed by Peter Sohn,42,0.9375,film_instance,The Incredibles 3
+185139,The Notebook (2004),1,Q223374,The Notebook,2004,2004 film directed by Nick Cassavetes,100,1.0,film_instance,The Notebook
+185139,The Notebook (2004),2,Q139972811,The Notebook,,Radio programme,60,1.0,unconfirmed,The Notebook
+185139,The Notebook (2004),3,Q15106179,The Notebook,2013|2014,2013 film by János Szász,46,1.0,film_instance,The Notebook
+185139,The Notebook (2004),4,Q134244683,The Notebook,2024,Nigeria film 2024,46,1.0,film_instance,The Notebook
+185139,The Notebook (2004),5,Q7754423,The Notebook of Trigorin,,play written by Tennessee Williams,40,0.6667,unconfirmed,The Notebook of Trigorin
+115463,Saw (2004),1,Q486239,Saw,2003|2004|2005,2004 film directed by James Wan,100,1.0,film_instance,Saw
+115463,Saw (2004),2,Q723622,Istanbul Sabiha Gökçen International Airport,,"secondary airport serving Istanbul, Turkey",60,1.0,unconfirmed,SAW
+115463,Saw (2004),3,Q37267314,Saw,,family name,60,1.0,unconfirmed,Saw
+115463,Saw (2004),4,Q25894534,Saw,,"village in Asmat Regency, South Papua, Indonesia",60,1.0,unconfirmed,Saw
+115463,Saw (2004),5,Q125356,saw,,tool used to cut through wood or other materials,60,1.0,unconfirmed,saw
+157190,Arrival (2016),1,Q20382729,Arrival,2016,2016 science fiction film by Denis Villeneuve,100,1.0,film_instance,Arrival
+157190,Arrival (2016),2,Q12769393,end,,termination of something,60,1.0,unconfirmed,arrival
+157190,Arrival (2016),3,Q105954404,Arrival,,instrumental track by ABBA; 1976 studio recording,60,1.0,unconfirmed,Arrival
+157190,Arrival (2016),4,Q115108099,Arrival,,instrumental track by Mike Oldfield; 1980 studio recording; cover version,60,1.0,unconfirmed,Arrival
+157190,Arrival (2016),5,Q2506273,Arrival,,"instrumental composition composed by Benny Andersson and Björn Ulvaeus, recorded by ABBA and released in 1976",60,1.0,unconfirmed,Arrival
+197200,Airplane! (1980),1,Q497256,Airplane!,1980,"1980 film directed by Jim Abrahams, David Zucker and Jerry Zucker",100,1.0,film_instance,Airplane!
+197200,Airplane! (1980),2,Q108906072,Airplane!,2020|2021,episode of The Goldbergs,36,1.0,unconfirmed,Airplane!
+170376,Blade Runner 2049 (2017),1,Q21500755,Blade Runner 2049,2017,2017 film directed by Denis Villeneuve,100,1.0,film_instance,Blade Runner 2049
+170376,Blade Runner 2049 (2017),2,Q141003103,Blade Runner 2049,2017,,90,1.0,unconfirmed,Blade Runner 2049
+170376,Blade Runner 2049 (2017),3,Q41658109,Blade Runner 2049,2017,"album by Benjamin Wallfisch, Hans Zimmer",40,1.0,not_film,Blade Runner 2049
+133249,Up (2009),1,Q174811,Up,2009,2009 animated film directed by Pete Docter,100,1.0,film_instance,Up
+133249,Up (2009),2,Q1498,Uttar Pradesh,,state in northern India,60,1.0,unconfirmed,UP
+133249,Up (2009),3,Q64063386,upper primary school,,upper primary education classes from standard 5–7,60,1.0,unconfirmed,UP
+133249,Up (2009),4,Q604444,University of Pretoria,,university in South Africa,60,1.0,unconfirmed,UP
+133249,Up (2009),5,Q746592,University of the Philippines,,national university of the Philippines,60,1.0,unconfirmed,UP
+162882,Forrest Gump (1994),1,Q134773,Forrest Gump,1994,1994 film directed by Robert Zemeckis,100,1.0,film_instance,Forrest Gump
+162882,Forrest Gump (1994),2,Q116014025,Forrest Gump,,sardana by Michel Tignères,60,1.0,unconfirmed,Forrest Gump
+162882,Forrest Gump (1994),3,Q109796942,Forrest Gump Point,,"viewpoint along U.S. Route 163 in Monument Valley in San Juan County, Utah, United States",48,0.8,unconfirmed,Forrest Gump Point
+162882,Forrest Gump (1994),4,Q58847831,Forrest Gump,1986,1986 edition,36,1.0,unconfirmed,Forrest Gump
+162882,Forrest Gump (1994),5,Q141753678,Forrest Gump,2012,2012 paperback edition,36,1.0,unconfirmed,Forrest Gump
+204794,It (1990),1,Q11661,information technology,,"development, management, and use of computer-based information systems",60,1.0,unconfirmed,IT
+204794,It (1990),2,Q1191931,isomeric transition,,decay of an nuclear isomer to lower energy states of the nuclide,60,1.0,unconfirmed,IT
+204794,It (1990),3,Q220072,ITV,,TV network in the United Kingdom,48,0.8,unconfirmed,ITV
+204794,It (1990),4,Q5094647,intensive care unit,,hospital ward that provides intensive care medicine,48,0.8,unconfirmed,ITU
+204794,It (1990),5,Q11920,Italian Wikipedia,,Italian-language edition of Wikipedia,40,0.6667,unconfirmed,itWP
+91332,Pulp Fiction (1994),1,Q104123,Pulp Fiction,1994,1994 film by Quentin Tarantino,100,1.0,film_instance,Pulp Fiction
+91332,Pulp Fiction (1994),2,Q351718,pulp fiction,,popular fiction dealing with lurid or sensational topics and originally printed on inexpensive paper made from wood pulp,60,1.0,unconfirmed,pulp fiction
+91332,Pulp Fiction (1994),3,Q2197480,pulp fiction,,,60,1.0,unconfirmed,pulp fiction
+91332,Pulp Fiction (1994),4,Q20713134,Pulp Fiction,,work by stencil graffiti artist Banksy,60,1.0,unconfirmed,Pulp Fiction
+91332,Pulp Fiction (1994),5,Q111121031,Pulp Fiction,,hostel in Sihanoukville,60,1.0,unconfirmed,Pulp Fiction
+132728,When Harry Met Sally... (1989),1,Q471169,When Harry Met Sally,1989,1989 film by Rob Reiner,100,1.0,film_instance,When Harry Met Sally
+132728,When Harry Met Sally... (1989),2,Q7992498,When Harry Met Sally...,1989,1989 soundtrack album by Harry Connick Jr.,40,1.0,not_film,When Harry Met Sally...
+93013,Daddy's Home (2015),1,Q18619590,Daddy's Home,2015|2016,2015 film directed by Sean Anders,100,1.0,film_instance,Daddy's Home
+93013,Daddy's Home (2015),2,Q141830805,Daddy's Home,2026,episode of Nobody Wants This (s3 e2),36,1.0,unconfirmed,Daddy's Home
+93013,Daddy's Home (2015),3,Q114478520,Daddy's Home,1995,episode of In the House (S2 E5),36,1.0,unconfirmed,Daddy's Home
+93013,Daddy's Home (2015),4,Q114532797,Daddy's Home,1987,episode of Full House (S1 E6),36,1.0,unconfirmed,Daddy's Home
+93013,Daddy's Home (2015),5,Q114483852,Daddy's Home,2018,episode of Good Witch (S4 E3),36,1.0,unconfirmed,Daddy's Home
+77293,A Wrinkle in Time,1,Q24301388,A Wrinkle in Time,2018,2018 film directed by Ava DuVernay,70,1.0,film_instance,A Wrinkle in Time
+77293,A Wrinkle in Time,2,Q278040,A Wrinkle in Time,2003,2003 film directed by John Kent Harrison,70,1.0,film_instance,A Wrinkle in Time
+77293,A Wrinkle in Time,3,Q54996261,A Wrinkle in Time,,opera by Libby Larsen,60,1.0,unconfirmed,A Wrinkle in Time
+77293,A Wrinkle in Time,4,Q141154502,A Wrinkle in Time,,audiobook edition,60,1.0,unconfirmed,A Wrinkle in Time
+77293,A Wrinkle in Time,5,Q27678188,A Wrinkle in Time adds Ant-Man star Michael Peña,2016,news article from Entertainment Weekly,31,0.5231,unconfirmed,A Wrinkle in Time adds Ant-Man star Michael Peña
+84273,Pineapple Express (2008),1,Q485610,Pineapple Express,2008,2008 film directed by David Gordon Green,100,1.0,film_instance,Pineapple Express
+84273,Pineapple Express (2008),2,Q86662685,Pineapple Express,,"tourist narrow-gauge railway on Oahu, Hawaii",60,1.0,unconfirmed,Pineapple Express
+84273,Pineapple Express (2008),3,Q336052,Pineapple Express,,atmospheric river northeast of the Hawaiian Islands,60,1.0,unconfirmed,Pineapple Express
+84273,Pineapple Express (2008),4,Q139679839,Pineapple Express,,beer brewed by Frontaal Brewing Co.,60,1.0,unconfirmed,Pineapple Express
+84273,Pineapple Express (2008),5,Q25393248,Pineapple Express,2008,2008 song performed by Huey Lewis and the News,40,1.0,not_film,Pineapple Express
+80067,Toy Story (1995),1,Q171048,Toy Story,1995|1996,1995 animated film directed by John Lasseter,100,1.0,film_instance,Toy Story
+80067,Toy Story (1995),2,Q2316015,Toy Story,1995,CGI-animated film series and Disney/Pixar media franchise about toys who come to life,40,1.0,not_film,Toy Story
+80067,Toy Story (1995),3,Q2414752,Toy Story,1995|1996,1995 video game,40,1.0,not_film,Toy Story
+80067,Toy Story (1995),4,Q10383906,Toy Story,1995,album by Randy Newman,40,1.0,not_film,Toy Story
+80067,Toy Story (1995),5,Q114537125,Toy Story,1999,episode of Just Shoot Me! (S3 E17),36,1.0,unconfirmed,Toy Story
+99583,Iron Man (2008),1,Q192724,Iron Man,2008,2008 film directed by Jon Favreau,100,1.0,film_instance,Iron Man
+99583,Iron Man (2008),2,Q1338800,Ironman Triathlon,,series of long-distance triathlon races,60,1.0,unconfirmed,Iron man
+99583,Iron Man (2008),3,Q12633029,Iron Man,,,60,1.0,unconfirmed,Iron Man
+99583,Iron Man (2008),4,Q731168,Cal Ripken Jr.,,American retired baseball player (born 1960),60,1.0,unconfirmed,Iron Man
+99583,Iron Man (2008),5,Q1369354,Iron Man,2008,2008 video game,40,1.0,not_film,Iron Man
+120948,Groundhog Day (1993),1,Q488655,Groundhog Day,1993,1993 film by Harold Ramis,100,1.0,film_instance,Groundhog Day
+120948,Groundhog Day (1993),2,Q19961225,Groundhog Day,,musical comedy based on the film of the same name,67,1.0,film_description,Groundhog Day
+120948,Groundhog Day (1993),3,Q45478473,Groundhog Day,,Estonian musical group,60,1.0,unconfirmed,Groundhog Day
+120948,Groundhog Day (1993),4,Q744374,Groundhog Day,,tradition of weather prediction observed in the US and Canada on Feb. 2,60,1.0,unconfirmed,Groundhog Day
+120948,Groundhog Day (1993),5,Q140204179,Groundhog Day,,beer brewed by Great Notion Brewing,60,1.0,unconfirmed,Groundhog Day
+76012,The Exorcist (1973),1,Q274167,The Exorcist,1973|1974,1973 film directed by William Friedkin,100,1.0,film_instance,The Exorcist
+76012,The Exorcist (1973),2,Q16884492,The Exorcist,,American horror media franchise,60,1.0,unconfirmed,The Exorcist
+76012,The Exorcist (1973),3,Q58949757,The Exorcist,,edition,60,1.0,unconfirmed,The Exorcist
+76012,The Exorcist (1973),4,Q28419582,The Exorcist,,play by John Pielmeier,60,1.0,unconfirmed,The Exorcist
+76012,The Exorcist (1973),5,Q126711119,The Exorcist,,edition (en),60,1.0,unconfirmed,The Exorcist
+112719,Gone Girl (2014),1,Q14920425,Gone Girl,2014,2014 film directed by David Fincher,100,1.0,film_instance,Gone Girl
+112719,Gone Girl (2014),2,Q16746449,Gone Girl,2014,episode of The Vampire Diaries (S5 E15),90,1.0,unconfirmed,Gone Girl
+112719,Gone Girl (2014),3,Q67187399,Gone Girl,2015,episode of Melissa & Joey (S4 E11),68,1.0,unconfirmed,Gone Girl
+112719,Gone Girl (2014),4,Q114547484,Gone Girl,2015,episode of Mistresses (S3 E1),68,1.0,unconfirmed,Gone Girl
+112719,Gone Girl (2014),5,Q114528712,Gone Girl,2015,episode of Bunk'd (S1 E2),68,1.0,unconfirmed,Gone Girl
+106233,Jumanji (1995),1,Q222939,Jumanji,1995|1996,1995 film directed by Joe Johnston,100,1.0,film_instance,Jumanji
+106233,Jumanji (1995),2,Q30684088,Jumanji,,American media franchise,60,1.0,unconfirmed,Jumanji
+106233,Jumanji (1995),3,Q19592929,Jumanji,,fictional board game,60,1.0,unconfirmed,Jumanji
+106233,Jumanji (1995),4,Q20762680,Jumanji: Welcome to the Jungle,2017|2018,2017 film directed by Jake Kasdan,46,1.0,film_instance,Jumanji
+106233,Jumanji (1995),5,Q60501923,Jumanji: The Next Level,2019,2019 film directed by Jake Kasdan,38,0.875,film_instance,Jumanji 3
+134106,The Dark Knight (2008),1,Q163872,The Dark Knight,2008|2022,2008 film directed by Christopher Nolan,100,1.0,film_instance,The Dark Knight
+134106,The Dark Knight (2008),2,Q583463,The Dark Knight Coaster,,Series of roller coasters at Six Flags parks,47,0.7895,unconfirmed,The Dark Knight Coaster
+134106,The Dark Knight (2008),3,Q132322742,Citizen Vigilante,2026,2026 film directed by Uwe Boll,46,1.0,film_instance,The Dark Knight
+134106,The Dark Knight (2008),4,Q2393298,The Dark Knight,2008,2008 soundtrack album by Hans Zimmer and James Newton Howard,40,1.0,not_film,The Dark Knight
+134106,The Dark Knight (2008),5,Q189330,The Dark Knight Rises,2012|2022,2012 film by Christopher Nolan,36,0.8333,film_instance,The Dark Knight Rises
+136983,Ghostbusters (1984),1,Q107539517,Ghostbusters,1984,1984 official music video by Ray Parker Jr.; directed by Ivan Reitman,90,1.0,unconfirmed,Ghostbusters
+136983,Ghostbusters (1984),2,Q2365168,Ghostbusters,,media franchise created in 1984,60,1.0,unconfirmed,Ghostbusters
+136983,Ghostbusters (1984),3,Q5165990,Ghostbusters,1984|1986|1988,1984 video game,40,1.0,not_film,Ghostbusters
+136983,Ghostbusters (1984),4,Q107539655,Ghostbusters – Original Soundtrack Album,1984,1984 compilation soundtrack album; various artists,40,1.0,not_film,Ghostbusters
+136983,Ghostbusters (1984),5,Q1392942,Ghostbusters,1983,"film song written, composed, and performed by Ray Parker Jr.; theme song from the 1984 film ""Ghostbusters""",18,1.0,not_film,Ghostbusters
+204455,A Bad Moms Christmas (2017),1,Q29832507,A Bad Moms Christmas,2017,2017 film directed by Jon Lucas and Scott Moore,100,1.0,film_instance,A Bad Moms Christmas
+90950,Avatar (2009),1,Q24871,Avatar,2009|2022,2009 film directed by James Cameron,100,1.0,film_instance,Avatar
+90950,Avatar (2009),2,Q790261,Avatar,,Swedish metal band,60,1.0,unconfirmed,Avatar
+90950,Avatar (2009),3,Q782823,Avatar,,Hungarian band,60,1.0,unconfirmed,Avatar
+90950,Avatar (2009),4,Q83090,avatar,,material appearance or incarnation of a deity on earth in Hinduism,60,1.0,unconfirmed,avatar
+90950,Avatar (2009),5,Q152402,avatar,,graphical representation of the user or the user's alter ego or character,60,1.0,unconfirmed,avatar
+84854,Beauty and the Beast (2017),1,Q19946102,Beauty and the Beast,2017,2017 film directed by Bill Condon,100,1.0,film_instance,Beauty and the Beast
+84854,Beauty and the Beast (2017),2,Q27611637,Beauty and the Beast,,vocal track by Céline Dion and Peabo Bryson; 1991 studio recording,60,1.0,unconfirmed,Beauty and the Beast
+84854,Beauty and the Beast (2017),3,Q33810403,Beauty and the Beast,,vocal track by Jump5; 2002 studio recording; cover version,60,1.0,unconfirmed,Beauty and the Beast
+84854,Beauty and the Beast (2017),4,Q33810414,Beauty and the Beast,,vocal track by Jordin Sparks,60,1.0,unconfirmed,Beauty and the Beast
+84854,Beauty and the Beast (2017),5,Q54481676,Beauty and the Beast,,vocal track by Beth Fowler; 1994 studio recording,60,1.0,unconfirmed,Beauty and the Beast
+118762,21 Jump Street (2012),1,Q214014,21 Jump Street,2012,2012 film directed by Phil Lord and Christopher Miller,100,1.0,film_instance,21 Jump Street
+118762,21 Jump Street (2012),2,Q126727014,21 Jump Street,,2014 film score by Mark Mothersbaugh,67,1.0,film_description,21 Jump Street
+118762,21 Jump Street (2012),3,Q214016,21 Jump Street,,American TV crime series from 1987 to 1991,60,1.0,unconfirmed,21 Jump Street
+118762,21 Jump Street (2012),4,Q97500611,"21 Jump Street, season 5",,season of 21 Jump Street,45,0.7568,unconfirmed,"21 Jump Street, season 5"
+118762,21 Jump Street (2012),5,Q97500610,"21 Jump Street, season 4",,season of 21 Jump Street,45,0.7568,unconfirmed,"21 Jump Street, season 4"
+77161,A Nightmare on Elm Street (1984),1,Q329434,A Nightmare on Elm Street,1984|1985,1984 film directed by Wes Craven,100,1.0,film_instance,A Nightmare on Elm Street
+77161,A Nightmare on Elm Street (1984),2,Q126935972,A Nightmare on Elm Street,,2010 film score by Steve Jablonsky,67,1.0,film_description,A Nightmare on Elm Street
+77161,A Nightmare on Elm Street (1984),3,Q1145824,A Nightmare on Elm Street 2: Freddy's Revenge,1985|1987,1985 American film by Jack Sholder,61,0.7246,film_instance,A Nightmare on Elm Street 2: Freddy's Revenge
+77161,A Nightmare on Elm Street (1984),4,Q4237139,A Nightmare on Elm Street,,several comics series based on the films,60,1.0,unconfirmed,A Nightmare on Elm Street
+77161,A Nightmare on Elm Street (1984),5,Q300508,A Nightmare on Elm Street,2010,2010 film directed by Samuel Bayer,46,1.0,film_instance,A Nightmare on Elm Street
+177112,Wedding Crashers (2005),1,Q238866,Wedding Crashers,2005,2005 film directed by David Dobkin,100,1.0,film_instance,Wedding Crashers
+177112,Wedding Crashers (2005),2,Q11902317,Wedding Crashers,,,60,1.0,unconfirmed,Wedding Crashers
+177112,Wedding Crashers (2005),3,Q114520389,Wedding Crashers,2012,episode of Kickin' It (S2 E16),36,1.0,unconfirmed,Wedding Crashers
+177112,Wedding Crashers (2005),4,Q134879316,Wedding Crashers,2022,episode of Locke & Key (S3 E2),36,1.0,unconfirmed,Wedding Crashers
+177112,Wedding Crashers (2005),5,Q125891554,Wedding Crashers,2020,episode of The Family Chantel (S2 E10),36,1.0,unconfirmed,Wedding Crashers
+99276,Star Wars (1977),1,Q17738,Star Wars: Episode IV – A New Hope,1977|1978,1977 film directed by George Lucas,100,1.0,film_instance,Star Wars
+99276,Star Wars (1977),2,Q462,Star Wars,,epic space opera multimedia franchise created by George Lucas,60,1.0,unconfirmed,Star Wars
+99276,Star Wars (1977),3,Q7601114,Star Wars,,1992 pinball,60,1.0,unconfirmed,Star Wars
+99276,Star Wars (1977),4,Q2715371,Star Wars,1977,1977 soundtrack album,40,1.0,not_film,Star Wars
+99276,Star Wars (1977),5,Q19786052,Star Wars universe,,fictional background of Star Wars,40,0.6667,unconfirmed,Star Wars universe
+204651,The Greatest Showman (2017),1,Q27942936,The Greatest Showman,2017|2018,2017 film directed by Michael Gracey,100,1.0,film_instance,The Greatest Showman
+204651,The Greatest Showman (2017),2,Q133445584,The Greatest Showman,,stage musical,60,1.0,unconfirmed,The Greatest Showman
+204651,The Greatest Showman (2017),3,Q133847894,Menak Lakat,,Indonesian written work,60,1.0,unconfirmed,The Greatest Showman (?)
+204651,The Greatest Showman (2017),4,Q138779014,The Greatest Showman universe,,fictional universe,49,0.8163,unconfirmed,The Greatest Showman universe
+204651,The Greatest Showman (2017),5,Q42704267,The Greatest Showman: Original Motion Picture Soundtrack,2017|2018,2018 soundtrack album by various artists,14,0.5634,not_film,The Greatest Showman Soundtrack Sing-a-Long Edition
+142573,Love Actually (2003),1,Q190588,Love Actually,2003,2003 film directed by Richard Curtis,100,1.0,film_instance,Love Actually
+142573,Love Actually (2003),2,Q48881275,Love Actually,,,60,1.0,unconfirmed,Love Actually
+142573,Love Actually (2003),3,Q21286358,Love Actually,,"TV of Mainland of China , 2015",60,1.0,unconfirmed,Love Actually
+142573,Love Actually (2003),4,Q6690296,Love Actually... Sucks!,2011,2011 Hong Kong film by Scud,35,0.8125,film_instance,Love Actually... Sucks!
+142573,Love Actually (2003),5,Q107545924,Love Actually – The Original Soundtrack,2003,2003 compilation soundtrack album; various artists,11,0.52,not_film,Love Actually – The Original Soundtrack
+194237,Shutter Island (2010),1,Q210364,Shutter Island,2010,2010 film directed by Martin Scorsese,100,1.0,film_instance,Shutter Island
+194237,Shutter Island (2010),2,Q48785817,Shutter Island,2010,scientific article published in October 2010,90,1.0,unconfirmed,Shutter Island
+194237,Shutter Island (2010),3,Q126696009,Shutter Island,,2003 edition (en),60,1.0,unconfirmed,Shutter Island
+194237,Shutter Island (2010),4,Q16949586,Shutter Island,2009,2009 graphic novel by Christian De Metter,18,1.0,not_film,Shutter Island
+194237,Shutter Island (2010),5,Q7505659,Shutter Island,,Wikimedia disambiguation page,10,1.0,not_film,Shutter Island
+161723,The Godfather (1972),1,Q47703,The Godfather,1972,1972 film directed by Francis Ford Coppola,100,1.0,film_instance,The Godfather
+161723,The Godfather (1972),2,Q187447,Pablo Escobar,,Colombian politician and drug lord (1949–1993),60,1.0,unconfirmed,The Godfather
+161723,The Godfather (1972),3,Q2411630,The GodFather,,,60,1.0,unconfirmed,The GodFather
+161723,The Godfather (1972),4,Q1066512,Charles Wright,,American professional wrestler,60,1.0,unconfirmed,The Godfather
+161723,The Godfather (1972),5,Q443678,Nikola Peković,,Montenegrin basketball player,60,1.0,unconfirmed,The Godfather
+106388,The Princess Bride (1987),1,Q506418,The Princess Bride,1987|1988,1987 film directed by Rob Reiner,100,1.0,film_instance,The Princess Bride
+106388,The Princess Bride (1987),2,Q123373074,The Princess Bride,1987,1987 film produced by Andrew Scheinman,100,1.0,film_instance,The Princess Bride
+106388,The Princess Bride (1987),3,Q3988844,The Princess Bride,1987,soundtrack album by Mark Knopfler,40,1.0,not_film,The Princess Bride
+106388,The Princess Bride (1987),4,Q86084120,The Princess Bride,2003,2003 Ballantine paperback edition,36,1.0,unconfirmed,The Princess Bride
+106388,The Princess Bride (1987),5,Q86084626,The Princess Bride,1973,original 1973 Harcourt hardcover edition,36,1.0,unconfirmed,The Princess Bride
+204419,Jigsaw (2017),1,Q15712110,Jigsaw,2017,2017 film directed by Peter Spierig and Michael Spierig,100,1.0,film_instance,Jigsaw
+204419,Jigsaw (2017),2,Q5583845,Jigsaw,,technology incubator operated by Alphabet,60,1.0,unconfirmed,Jigsaw
+204419,Jigsaw (2017),3,Q1241196,Jigsaw,,English pop music group,60,1.0,unconfirmed,Jigsaw
+204419,Jigsaw (2017),4,Q1140903,jigsaw,,type of saw,60,1.0,unconfirmed,jigsaw
+204419,Jigsaw (2017),5,Q17084518,coping saw,,type of bow saw used to cut intricate external shapes and interior cut-outs in woodworking or carpentry,60,1.0,unconfirmed,Jigsaw
+154844,Finding Nemo (2003),1,Q132863,Finding Nemo,2003,2003 animated film directed by Andrew Stanton,100,1.0,film_instance,Finding Nemo
+154844,Finding Nemo (2003),2,Q15885268,Finding Nemo,,Disney media franchise,60,1.0,unconfirmed,Finding Nemo
+154844,Finding Nemo (2003),3,Q3072553,Finding Nemo – The Musical,,Musical based on the Finding Nemo movie,47,0.6667,film_description,Finding Nemo – The Musical
+154844,Finding Nemo (2003),4,Q9321426,Finding Dory,2015|2016,2016 animated film directed by Andrew Stanton,41,0.9231,film_instance,Finding Nemo 2
+154844,Finding Nemo (2003),5,Q2546129,Finding Nemo,2003,2003 video game,40,1.0,not_film,Finding Nemo
+108278,The Lion King (1994),1,Q36479,The Lion King,1994|1995,1994 animated film directed by Roger Allers and Rob Minkoff,100,1.0,film_instance,The Lion King
+108278,The Lion King (1994),2,Q2901452,The Lion King,,Disney media franchise,60,1.0,unconfirmed,The Lion King
+108278,The Lion King (1994),3,Q27044293,The Lion King,2019|2021,2019 film directed by Jon Favreau,46,1.0,film_instance,The Lion King
+108278,The Lion King (1994),4,Q191803,The Lion King II: Simba's Pride,1998|1999,1998 film directed by Darrell Rooney,42,0.9286,film_instance,The Lion King 2
+108278,The Lion King (1994),5,Q134138,The Lion King,1994|1995,1994 video game,40,1.0,not_film,The Lion King
+81792,Zootopia,1,Q15270647,Zootopia,2016,2016 animated film directed by Byron Howard and Rich Moore,70,1.0,film_instance,Zootopia
+81792,Zootopia,2,Q116753708,Zootopia,,Disney media franchise,60,1.0,unconfirmed,Zootopia
+81792,Zootopia,3,Q24387968,Zootopia,,fictional metropolis from Zootopia,60,1.0,unconfirmed,Zootopia
+81792,Zootopia,4,Q137379880,Zootopia 2,2025,2025 film score by Michael Giacchino,60,0.8889,film_description,Zootopia 2
+81792,Zootopia,5,Q141084783,Zootopia 3,,announced American animated film,60,0.8889,film_description,Zootopia 3
+112069,Mad Max: Fury Road (2015),1,Q1757288,Mad Max: Fury Road,2015,2015 film directed by George Miller,100,1.0,film_instance,Mad Max: Fury Road
+112069,Mad Max: Fury Road (2015),2,Q19824777,Mad Max: Fury Road,2015,soundtrack to the 2015 film,40,1.0,not_film,Mad Max: Fury Road
+112069,Mad Max: Fury Road (2015),3,Q20715628,Mad Max: Fury Road,,comic,10,1.0,not_film,Mad Max: Fury Road
+184951,Scream (1996),1,Q27411,Scream,1996|1997,1996 film directed by Wes Craven,100,1.0,film_instance,Scream
+184951,Scream (1996),2,Q388659,Scream,1996|1997|2000|2011|2022|2023|2026,American horror slasher franchise,90,1.0,unconfirmed,Scream
+184951,Scream (1996),3,Q300968,Scream / Childhood,1995,1995 single by Michael Jackson and Janet Jackson,68,1.0,unconfirmed,Scream
+184951,Scream (1996),4,Q1932016,screaming,,loud vocalization by some living creature,60,1.0,unconfirmed,scream
+184951,Scream (1996),5,Q471379,The Scream,,group of paintings by Edvard Munch,60,1.0,unconfirmed,Scream
+195979,Baby Driver (2017),1,Q23016644,Baby Driver,2017,2017 film directed by Edgar Wright,100,1.0,film_instance,Baby Driver
+195979,Baby Driver (2017),2,Q109884153,Baby Driver,,vocal track by Simon & Garfunkel; 1969 studio recording,60,1.0,unconfirmed,Baby Driver
+195979,Baby Driver (2017),3,Q123574434,untitled 'Baby Driver' sequel,,film project directed by Edgar Wright,42,0.5789,film_description,untitled 'Baby Driver' sequel
+195979,Baby Driver (2017),4,Q31842761,Baby Driver,2017,2017 soundtrack album by various artists,40,1.0,not_film,Baby Driver
+195979,Baby Driver (2017),5,Q109883136,The Boxer / Baby Driver,1969,"1969 US 7"" single by Simon & Garfunkel; Columbia – 4-44785",36,1.0,unconfirmed,Baby Driver
+197213,Interstellar (2014),1,Q13417189,Interstellar,2014|2025,2014 film by Christopher Nolan,100,1.0,film_instance,Interstellar
+197213,Interstellar (2014),2,Q41872,interstellar medium,,matter and radiation in the space between the star systems in a galaxy,51,0.8571,unconfirmed,interstellar gas
+197213,Interstellar (2014),3,Q1054444,interstellar cloud,,"accumulation of gas, plasma and dust in a galaxy",48,0.8,unconfirmed,interstellar cloud
+197213,Interstellar (2014),4,Q18351943,Interstellar Slunk,2014,2014 studio album by Bucketheadland,28,0.8,not_film,Interstellar Slunk
+197213,Interstellar (2014),5,Q21186666,Interstellar,2015,Gué Pequeno song,18,1.0,not_film,Interstellar
+204478,Daddy's Home 2 (2017),1,Q28975643,Daddy's Home 2,2017,2017 film directed by Sean Anders,100,1.0,film_instance,Daddy's Home 2
+165710,The Boss Baby (2017),1,Q18619153,The Boss Baby,2017,2017 animated film by Tom McGrath,100,1.0,film_instance,The Boss Baby
+165710,The Boss Baby (2017),2,Q103813550,The Boss Baby,,DreamWorks Animation franchise,60,1.0,unconfirmed,The Boss Baby
+165710,The Boss Baby (2017),3,Q11640531,The Boss Baby: Family Business,2021,2021 film directed by Tom McGrath,42,0.9286,film_instance,The Boss Baby 2
+165710,The Boss Baby (2017),4,Q126478220,The Boss Baby,2017,2017 soundtrack album composed by Hans Zimmer and Steve Mazzaro,40,1.0,not_film,The Boss Baby
+165710,The Boss Baby (2017),5,Q60977652,"The Boss Baby: Back in Business, season 2",,season of The Boss Baby: Back in Business,30,0.5,unconfirmed,"The Boss Baby: Back in Business, season 2"
+127115,Hot Fuzz (2007),1,Q729788,Hot Fuzz,2007,2007 film by Edgar Wright,100,1.0,film_instance,Hot Fuzz
+127115,Hot Fuzz (2007),2,Q129264138,Conclusive: We Made Hot Fuzz,2007,behind the scenes film from 2007,77,0.6667,film_description,We Made Hot Fuzz
+127115,Hot Fuzz (2007),3,Q16844866,Hot Fuzz,2007,film soundtrack,40,1.0,not_film,Hot Fuzz
+127115,Hot Fuzz (2007),4,Q41251877,Antony Lopez,,Gibraltarian darts player,18,0.3,unconfirmed,Antony Lopez
+161983,Mrs. Doubtfire (1993),1,Q483852,Mrs. Doubtfire,1993|1994,1993 film directed by Chris Columbus,100,1.0,film_instance,Mrs. Doubtfire
+161983,Mrs. Doubtfire (1993),2,Q85786843,Mrs. Doubtfire,,Musical adaptation of the 1993 film Mrs. Doubtfire,67,1.0,film_description,Mrs. Doubtfire
+161983,Mrs. Doubtfire (1993),3,Q20614484,Mrs. Doubtfire 2,,proposed film briefly in development in 2014,63,0.9286,film_description,Mrs. Doubtfire 2
+161983,Mrs. Doubtfire (1993),4,Q3412929,Madame Doubtfire,1987,novel by Anne Fine,0,0.7586,not_film,Madame Doubtfire
+150451,Happy Gilmore (1996),1,Q1313063,Happy Gilmore,1996,1996 film by Dennis Dugan,100,1.0,film_instance,Happy Gilmore
+150451,Happy Gilmore (1996),2,Q130269576,Happy Gilmore 2,2025,2025 film directed by Kyle Newacheck,42,0.9286,film_instance,Happy Gilmore 2
+150451,Happy Gilmore (1996),3,Q137435404,Happy Gilmore,,fictional character from the film of the same name,10,1.0,not_film,Happy Gilmore
+99244,Halloween (1978),1,Q221103,Halloween,1978|1979,1978 film directed by John Carpenter,100,1.0,film_instance,Halloween
+99244,Halloween (1978),2,Q251868,Halloween,,celebration observed in many countries on 31 October,60,1.0,unconfirmed,Halloween
+99244,Halloween (1978),3,Q1571838,Halloween,,American heavy metal band,60,1.0,unconfirmed,Halloween
+99244,Halloween (1978),4,Q5383,David Bowie,,English musician and actor (1947–2016),47,0.7826,unconfirmed,Halloween Jack
+99244,Halloween (1978),5,Q909063,Halloween,2007,2007 film directed by Rob Zombie,46,1.0,film_instance,Halloween
+152847,How to Lose a Guy in 10 Days (2003),1,Q1327370,How to Lose a Guy in 10 Days,2003,2003 film by Donald Petrie,100,1.0,film_instance,How to Lose a Guy in 10 Days
+152847,How to Lose a Guy in 10 Days (2003),2,Q2986176,How to Lose a Guy in 10 Days – Music from the Motion Picture,2003,2003 compilation soundtrack album; various artists,19,0.6512,not_film,How to Lose a Guy in 10 Days – Music from the Motion Picture
+170277,The Terminator (1984),1,Q162255,The Terminator,1984|1985|1987,1984 film directed by James Cameron,100,1.0,film_instance,The Terminator
+170277,The Terminator (1984),2,Q9357438,The Terminator,1984,soundtrack album by Brad Fiedel,40,1.0,not_film,The Terminator
+170277,The Terminator (1984),3,Q2685,Arnold Schwarzenegger,,"Austrian and American actor, bodybuilder, and politician (born 1947)",14,0.2286,unconfirmed,Arnold Schwarzenegger
+170277,The Terminator (1984),4,Q124718892,The Terminator,,1993 video game for SNES,10,1.0,not_film,The Terminator
+170277,The Terminator (1984),5,Q124718864,The Terminator,,2003 video game,10,1.0,not_film,The Terminator
+120003,Fight Club (1999),1,Q190050,Fight Club,1999,1999 film directed by David Fincher,100,1.0,film_instance,Fight Club
+120003,Fight Club (1999),2,Q132662730,Fight Club,1999,1999 edition (en),90,1.0,unconfirmed,Fight Club
+120003,Fight Club (1999),3,Q5447733,Fight Club,2000,episode of The X-Files (S7 E20),68,1.0,unconfirmed,Fight Club
+120003,Fight Club (1999),4,Q4090497,Fight Club,,Russian television program,60,1.0,unconfirmed,Fight Club
+120003,Fight Club (1999),5,Q141351328,Fight Club,,group of Senate Democrats,60,1.0,unconfirmed,Fight Club
+99660,"I, Robot (2004)",1,Q200572,"I, Robot",2004,2004 film directed by Alex Proyas,100,1.0,film_instance,"I, Robot"
+99660,"I, Robot (2004)",2,Q5967461,"I, Robot",2005,2005 novelette by Cory Doctorow,68,1.0,unconfirmed,"I, Robot"
+99660,"I, Robot (2004)",3,Q130283817,"I, Robot",,2004 film score by Marco Beltrami,67,1.0,film_description,"I, Robot"
+99660,"I, Robot (2004)",4,Q9295682,"I, Robot",,American screamo band,60,1.0,unconfirmed,"I, Robot"
+99660,"I, Robot (2004)",5,Q624526,"I, Robot",1984,1984 arcade game,36,1.0,unconfirmed,"I, Robot"
+204292,Star Wars,1,Q17738,Star Wars: Episode IV – A New Hope,1977|1978,1977 film directed by George Lucas,70,1.0,film_instance,Star Wars
+204292,Star Wars,2,Q462,Star Wars,,epic space opera multimedia franchise created by George Lucas,60,1.0,unconfirmed,Star Wars
+204292,Star Wars,3,Q7601114,Star Wars,,1992 pinball,60,1.0,unconfirmed,Star Wars
+204292,Star Wars,4,Q19786052,Star Wars universe,,fictional background of Star Wars,40,0.6667,unconfirmed,Star Wars universe
+204292,Star Wars,5,Q54317,Star Wars,1983,1983 video game,10,1.0,not_film,Star Wars
+182960,Shaun of the Dead (2004),1,Q858724,Shaun of the Dead,2004,2004 film directed by Edgar Wright,100,1.0,film_instance,Shaun of the Dead
+182960,Shaun of the Dead (2004),2,Q7491012,Shaun of the Dead,,series of comics,60,1.0,unconfirmed,Shaun of the Dead
+182960,Shaun of the Dead (2004),3,Q10370989,Shaun of the Dead – Music from the Motion Picture,2005,2005 compilation album series; various artists,0,0.5312,not_film,Shaun of the Dead – Music from the Motion Picture
+79968,Split (2017),1,Q21869840,Split,2016|2017,2016 film directed by M. Night Shyamalan,100,1.0,film_instance,Split
+79968,Split (2017),2,Q1663,Split,,"city in Split-Dalmatia County, Croatia",60,1.0,unconfirmed,Split
+79968,Split (2017),3,Q8060384,Split,,1979 Koni-class frigate,60,1.0,unconfirmed,Split
+79968,Split (2017),4,Q29810410,Notch Dmel_CG3936,,protein found in Drosophila melanogaster,60,1.0,unconfirmed,split
+79968,Split (2017),5,Q518554,partition,,division of a territory,60,1.0,unconfirmed,split
+104180,La La Land (2016),1,Q20856802,La La Land,2016|2017,2016 film directed by Damien Chazelle,100,1.0,film_instance,La La Land
+104180,La La Land (2016),2,Q25019036,La La Land,2016,2016 Bosnian documentary film directed by Dalibor Miljević,97,1.0,film_description,La La Land
+104180,La La Land (2016),3,Q65,Los Angeles,,"seat of Los Angeles County, and largest city in California, United States",60,1.0,unconfirmed,La La Land
+104180,La La Land (2016),4,Q2754006,La La Land,,British DJ duo,60,1.0,unconfirmed,La La Land
+104180,La La Land (2016),5,Q99743839,La La Land,,episode of Pawn Stars (S14 E11),60,1.0,unconfirmed,La La Land
+97219,The Notebook (2013),1,Q15106179,The Notebook,2013|2014,2013 film by János Szász,100,1.0,film_instance,The Notebook
+97219,The Notebook (2013),2,Q139972811,The Notebook,,Radio programme,60,1.0,unconfirmed,The Notebook
+97219,The Notebook (2013),3,Q223374,The Notebook,2004,2004 film directed by Nick Cassavetes,46,1.0,film_instance,The Notebook
+97219,The Notebook (2013),4,Q134244683,The Notebook,2024,Nigeria film 2024,46,1.0,film_instance,The Notebook
+97219,The Notebook (2013),5,Q7754423,The Notebook of Trigorin,,play written by Tennessee Williams,40,0.6667,unconfirmed,The Notebook of Trigorin
+162647,Finding Dory (2016),1,Q9321426,Finding Dory,2015|2016,2016 animated film directed by Andrew Stanton,100,1.0,film_instance,Finding Dory
+162647,Finding Dory (2016),2,Q28016594,Finding Dory payoff poster,2016,film poster for 2016 film 'Finding Dory',75,0.6316,film_description,Finding Dory payoff poster
+162647,Finding Dory (2016),3,Q28016417,Finding Dory Have you seen her? poster – Kelp,2016,film poster for 2016 film 'Finding Dory',64,0.4444,film_description,Finding Dory Have you seen her? poster – Kelp
+162647,Finding Dory (2016),4,Q28016465,Finding Dory Have you seen her? poster – Anemone,2016,film poster for 2016 film 'Finding Dory',62,0.4211,film_description,Finding Dory Have you seen her? poster – Anemone
+162647,Finding Dory (2016),5,Q28016497,Finding Dory Have you seen her? poster – Jellyfish,2016,film poster for 2016 film 'Finding Dory',61,0.4068,film_description,Finding Dory Have you seen her? poster – Jellyfish
